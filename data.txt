@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1276146263%2C%22first_name%22%3A%22WanBot%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22wanbotx%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=823796079153565234&chat_type=sender&start_param=5914982564&auth_date=1724414960&hash=0a5b5e25011a1ed4a7ee421dda344ba141575b45b4e42641d43e2e1216552a2a
