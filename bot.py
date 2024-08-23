@@ -317,10 +317,7 @@ class Cowtopia:
                 except Exception as e:
                     self.log(f"{red}Get access token error!!!")
 
-            print()
-            wait_time = 30 * 60
-            self.log(f"{yellow}Wait for {int(wait_time/60)} minutes!")
-            time.sleep(wait_time)
+            break
 
 
 if __name__ == "__main__":
